@@ -1,5 +1,5 @@
 Der erste Text.
-
-Jetzt eine Änderung im master.
-Das ist eine 2. Änderung im master.
-Jetzt eine Änderung im Branch test.Jetzt eine 2. Änderung im Branch test.
+Das ist eine Ã„nderung im remote.
+Jetzt eine Ã„nderung im master.
+Das ist eine 2. Ã„nderung im master.
+Jetzt eine Ã„nderung im Branch test.Jetzt eine 2. Ã„nderung im Branch test.
